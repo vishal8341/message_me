@@ -3,3 +3,9 @@
 .chatbox{
     height: 450px;
 }
+
+#message-tab{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-color: lightblue;
+}
